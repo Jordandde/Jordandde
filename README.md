@@ -5,6 +5,8 @@ My name is Jordan and I'm a 4th Computer Engineering student at the University o
 - 📫 How to reach me: I can be reached at jordan.de.souza@uwaterloo.ca. Feel free to send me an email if you want to know more about some of my projects, and please reach out if you know of any good internship opportunities
 - 🔭 I’m currently looking for an 8 month internship starting May 2023, and I am open to 4 month internships as well. I am open to any type of Software job as I always love learning new things and adding tools to my toolkit
 - 💬 For more info, feel free to reach out or go to my website at jordandde.com
+
+*Note: I've made my RTOS project repository private to prevent students from plagarizing my work. If you are a recruiter or you're interested in working with me and would like to see the project send me an email and I can make it public for a short time or we can schedule a call/walkthrough
 <!--
 **Jordandde/Jordandde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
